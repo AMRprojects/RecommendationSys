@@ -8,7 +8,7 @@ Work performed on the movielens 1M dataset
 Analysis performed in Databricks using Apache Spark – pyspark and spark SQL  
 Collaborative filter uses similarities between users and items simultaneously to provide recommendations. Movielens set contains explicit movie ratings. Algorithm provided in FILE utilizes Alternating Least Squares (ALS) algorithm to factorize user/item matrix.  
   
-References: 
+References:  
 https://www.nvidia.com/en-us/glossary/recommendation-system/  
 https://developers.google.com/machine-learning/recommendation/content-based/basics  
 https://nightlies.apache.org/flink/flink-docs-release-1.4/dev/libs/ml/als.html  
